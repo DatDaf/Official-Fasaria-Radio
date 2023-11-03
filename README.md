@@ -1,6 +1,6 @@
 # Official-Fasaria-Radio
 
-Καλωσήρθατε στο Fasaria Radio. Εδώ θα βρείτε το αρχείο για να προσθέσετε ελληνικά ραδιόφωνα στο ***Euro Truck Simulator 2***.
+Καλωσήρθατε στο ***Official Fasaria Radio***. Εδώ θα βρείτε το αρχείο για να προσθέσετε ελληνικά ραδιόφωνα στο ***Euro Truck Simulator 2***.
 
 # Εγκατάσταση
 
